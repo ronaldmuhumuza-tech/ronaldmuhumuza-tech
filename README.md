@@ -9,31 +9,23 @@ I build cloud-integrated systems combining networking, edge computing, cloud aut
 
 ### IndusStream – Edge to Cloud Telemetry Platform
 
-A cloud-native telemetry platform that ingests, processes, stores, and visualises real-time sensor data from edge devices.
+An evolving telemetry platform exploring how edge devices, Linux systems and cloud infrastructure can be integrated into a scalable operational monitoring environment.
 
-### Architecture
-- Arduino Sensors
-- Raspberry Pi Edge Gateway
-- MQTT
-- AWS IoT Core
-- Lambda
-- DynamoDB
-- S3 Data Lake
-- Athena
-- QuickSight
+The platform has progressively evolved from serverless telemetry ingestion into a Raspberry Pi-based edge architecture incorporating MQTT messaging, local telemetry processing, cloud automation and Infrastructure as Code practices.
 
-### Platform Features
-- Real-time MQTT telemetry ingestion
-- SQLite edge buffering
-- AWS Lambda serverless processing
-- DynamoDB operational storage
-- AWS S3 data lake analytics archive
-- AWS Athena analytics layer
-- QuickSight (SPICE) dashboards
-- SNS alerting
-- DEV / PROD environment separation
-- GitHub Actions CI/CD deployment
-- COst-conscious cloud design
+### Platform Focus
+* Edge-to-cloud telemetry workflows
+* Linux edge runtime engineering
+* Cloud-native infrastructure
+* Infrastructure as Code (Terraform)
+* MQTT and IoT integration
+* Operational observability
+* CI/CD automation
+* Production-style deployment practices
+
+### Current Direction
+
+Current development is focused on rebuilding the platform using a structured engineering approach within an AWS Organizations SANDBOX environment, with the goal of improving operational consistency, deployment automation and long-term platform scalability.
 
 [View IndusStream Project](https://github.com/ronaldmuhumuza-tech/IndusStream)
 
@@ -57,41 +49,29 @@ A version-controlled infrastructure project simulating enterprise network design
 
 # Technical Stack
 
-## Cloud & Data
-* AWS IoT Core
-* AWS Lambda
-* DynamoDB
-* S3 (Data Lake)
-* Athena
-* QuickSight
-* SNS
+## Cloud & Infrastructure
+* AWS cloud architecture
+* MQTT telemetry ingestion
+* Infrastructure as Code (Terraform)
+* Operational observability and monitoring
 
-## Edge & Embedded
-* Raspberry Pi
-* Arduino
-* MQTT
-* SQLite
+## Edge & Embedded Systems
+* Raspberry Pi edge runtime engineering
+* Arduino sensor integration
+* Local telemetry processing and buffering
 
-## Networking
-* VLANs
-* OSPF
-* STP / EtherChannel
-* TCP/IP
-
-## DevOps & Automation
-* GitHub Actions
-* CI/CD workflows
-* Infrastructure versioning
-* Linux systemd services
+## Networking & Platform Engineering
+* VLAN segmentation and TCP/IP networking
+* Linux systemd service management
+* CI/CD automation with GitHub Actions
 
 # Engineering Principles
 
 - Infrastructure as code
-- Environment separation (DEV / PROD / SANDBOX / MANAGEMENT)
-- Cost-aware cloud architecture
-- Operational observability
+- Environment separation (SANDBOX / DEV / PROD)
 - Secure deployment workflows
-- Incremental system design
+- Incremental platform evolution
+- Cost-conscious cloud design
 
 # Connect
 LinkedIn: [https://www.linkedin.com/in/mronald-sham/]
