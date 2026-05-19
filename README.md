@@ -1,76 +1,68 @@
 # Hi, Iam Ronald Muhumuza
 Cloud • Infrastructure • Edge Computing • Data Analytics
 
-I build cloud-integrated systems combining networking, edge computing, cloud automation and telemetry analytics.
+Personal systems engineering projects focused on cloud infrastructure, networking, Linux edge systems and automation workflows.
+
+Current work focuses on hands-on infrastructure and platform engineering projects exploring:
+
+- AWS cloud infrastructure
+- Linux runtime operations
+- Infrastructure as Code (Terraform)
+- MQTT telemetry ingestion
+- CI/CD automation
+- networking and segmentation
+- operational observability
+- edge-to-cloud architectures
 
 ---
 
-## What I have Built
+## Featured Projects
 
-### IndusStream – Edge to Cloud Telemetry Platform
+### IndusStream
 
-An evolving telemetry platform exploring how edge devices, Linux systems and cloud infrastructure can be integrated into a scalable operational monitoring environment.
+Edge-to-cloud telemetry and infrastructure platform exploring Raspberry Pi edge runtimes, MQTT messaging, AWS ingestion pipelines and operational automation workflows.
 
-The platform has progressively evolved from serverless telemetry ingestion into a Raspberry Pi-based edge architecture incorporating MQTT messaging, local telemetry processing, cloud automation and Infrastructure as Code practices.
-
-### Platform Focus
-* Edge-to-cloud telemetry workflows
-* Linux edge runtime engineering
-* Cloud-native infrastructure
-* Infrastructure as Code (Terraform)
-* MQTT and IoT integration
-* Operational observability
-* CI/CD automation
-* Production-style deployment practices
-
-### Current Direction
-
-Current development is focused on rebuilding the platform using a structured engineering approach within an AWS Organizations SANDBOX environment, with the goal of improving operational consistency, deployment automation and long-term platform scalability.
-
-[View IndusStream Project](https://github.com/ronaldmuhumuza-tech/IndusStream)
-
----
+Current work is focused on the Terraform-based V5 rebuild following operational validation of earlier platform versions.
 
 ### Network Infrastructure Engineering
 
-A version-controlled infrastructure project simulating enterprise network design and operations.
+Hands-on networking lab focused on VLAN segmentation, routing protocols, switching concepts and enterprise-style network design exercises.
 
-### Areas Covered
-- VLAN segmentation (Layer 2)
-- Inter-VLAN routing
-- OSPF
-- Redundancy and failover
-- Enterprise topology planning
-- Hybrid cloud connectivity
+### AWS Enterprise Infrastructure
 
-[View Network Infrastructure Project](https://github.com/ronaldmuhumuza-tech/network-infrastructure-engineering)
+Infrastructure-focused AWS learning and deployment exercises exploring cloud networking, governance, identity management and scalable architecture patterns.
 
----
+## Engineering Approach
 
-# Technical Stack
+Projects are approached incrementally with emphasis on:
 
-## Cloud & Infrastructure
-* AWS cloud architecture
-* MQTT telemetry ingestion
-* Infrastructure as Code (Terraform)
-* Operational observability and monitoring
+- operational validation
+- environment separation
+- infrastructure automation
+- Linux-first runtime design
+- reproducible deployment workflows
+- documentation and governance
 
-## Edge & Embedded Systems
-* Raspberry Pi edge runtime engineering
-* Arduino sensor integration
-* Local telemetry processing and buffering
 
-## Networking & Platform Engineering
-* VLAN segmentation and TCP/IP networking
-* Linux systemd service management
-* CI/CD automation with GitHub Actions
+### Current Direction
 
-# Engineering Principles
+Current efforts are focused on improving Linux operational depth, Terraform-based infrastructure deployment and structured platform engineering workflows across cloud and edge environments.
 
-- Infrastructure as code
+## Repository Structure
+
+- [indusstream-v5](https://github.com/ronaldmuhumuza-tech/IndusStream-v5) -> active Terraform and platform engineering rebuild
+
+- [indusstream-legacy](https://github.com/ronaldmuhumuza-tech/IndusStream-Legacy) -> validated historical platform versions
+
+- [network-infrastructure-engineering](https://github.com/ronaldmuhumuza-tech/network-infrastructure-engineering) -> networking and infrastructure labs
+
+## Engineering Approach
+
+- Infrastructure as Code
 - Environment separation (SANDBOX / DEV / PROD)
+- Incremental platform development
+- Operational validation and troubleshooting
 - Secure deployment workflows
-- Incremental platform evolution
 - Cost-conscious cloud design
 
 # Connect
