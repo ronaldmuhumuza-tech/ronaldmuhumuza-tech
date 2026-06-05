@@ -1,69 +1,71 @@
-# Hi, Iam Ronald Muhumuza
-Cloud • Infrastructure • Edge Computing • Data Analytics
+# # Infrastructure & Systems Engineering Portfolio
 
-Personal systems engineering projects focused on cloud infrastructure, networking, Linux edge systems and automation workflows.
+Hi, Iam Ronald Muhumuza. Systems Engineer developing practical experience across infrastructure platforms, networking, Linux systems, cloud technologies and automation.
 
-Current work focuses on hands-on infrastructure and platform engineering projects exploring:
+This portfolio documents personal engineering projects focused on building, validating and operating modern infrastructure environments.
 
-- AWS cloud infrastructure
-- Linux runtime operations
-- Infrastructure as Code (Terraform)
-- MQTT telemetry ingestion
-- CI/CD automation
-- networking and segmentation
-- operational observability
-- edge-to-cloud architectures
+Current development includes:
+
+* Enterprise networking and infrastructure design
+* Linux systems administration and operations
+* Infrastructure as Code (Terraform)
+* Wireless and network services
+* Monitoring and operational observability
+* Edge-to-cloud architectures
 
 ---
 
 ## Featured Projects
 
+### Netcore v2
+
+Enterprise infrastructure laboratory developed within EVE-NG to explore networking, Linux administration, wireless infrastructure, monitoring and automation.
+
+Key activities:
+
+- Cisco C9800-CL wireless infrastructure
+- Ubuntu Server administration
+- Enterprise network design
+- Infrastructure services deployment
+
 ### IndusStream
 
-Edge-to-cloud telemetry and infrastructure platform exploring Raspberry Pi edge runtimes, MQTT messaging, AWS ingestion pipelines and operational automation workflows.
+### IndusStream v5
 
-Current work is focused on the Terraform-based V5 rebuild following operational validation of earlier platform versions.
+Edge-to-cloud infrastructure platform exploring telemetry collection, MQTT messaging, automation workflows and cloud integration.
 
-### Network Infrastructure Engineering
+Current work includes:
 
-Hands-on networking lab focused on VLAN segmentation, routing protocols, switching concepts and enterprise-style network design exercises.
+- Terraform-based platform rebuild
+- Infrastructure simplification
+- Deployment workflow refinement
 
 ### AWS Enterprise Infrastructure
 
 Infrastructure-focused AWS learning and deployment exercises exploring cloud networking, governance, identity management and scalable architecture patterns.
 
-## Engineering Approach
+## Engineering Principles
 
-Projects are approached incrementally with emphasis on:
+Projects are developed using:
 
-- operational validation
-- environment separation
-- infrastructure automation
-- Linux-first runtime design
-- reproducible deployment workflows
-- documentation and governance
+* Infrastructure as Code
+* Incremental delivery
+* Environment separation
+* Operational validation
+* Documentation and reproducibility
+* Secure deployment practices
 
+## Active Repositories
+
+- [indusstream-v5](https://github.com/ronaldmuhumuza-tech/IndusStream-v5) -> Edge-to-cloud infrastructure platform
+
+- [indusstream-legacy](https://github.com/ronaldmuhumuza-tech/IndusStream-Legacy) -> Historical platform implementations and validation
+
+- [network-infrastructure-engineering](https://github.com/ronaldmuhumuza-tech/network-infrastructure-engineering) -> Networking and infrastructure engineering laboratory
 
 ### Current Direction
 
-Current efforts are focused on improving Linux operational depth, Terraform-based infrastructure deployment and structured platform engineering workflows across cloud and edge environments.
-
-## Repository Structure
-
-- [indusstream-v5](https://github.com/ronaldmuhumuza-tech/IndusStream-v5) -> active Terraform and platform engineering rebuild
-
-- [indusstream-legacy](https://github.com/ronaldmuhumuza-tech/IndusStream-Legacy) -> validated historical platform versions
-
-- [network-infrastructure-engineering](https://github.com/ronaldmuhumuza-tech/network-infrastructure-engineering) -> networking and infrastructure labs
-
-## Engineering Approach
-
-- Infrastructure as Code
-- Environment separation (SANDBOX / DEV / PROD)
-- Incremental platform development
-- Operational validation and troubleshooting
-- Secure deployment workflows
-- Cost-conscious cloud design
+Current efforts are focused on strengthening practical capability across infrastructure engineering, Linux operations, enterprise networking and infrastructure automation through hands-on project development.
 
 # Connect
 LinkedIn: [https://www.linkedin.com/in/mronald-sham/]
