@@ -1,4 +1,4 @@
-# # Infrastructure & Systems Engineering Portfolio
+# Infrastructure & Systems Engineering Portfolio
 
 Hi, Iam Ronald Muhumuza. Systems Engineer developing practical experience across infrastructure platforms, networking, Linux systems, cloud technologies and automation.
 
