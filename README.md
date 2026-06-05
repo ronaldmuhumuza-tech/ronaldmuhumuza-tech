@@ -28,8 +28,6 @@ Key activities:
 - Enterprise network design
 - Infrastructure services deployment
 
-### IndusStream
-
 ### IndusStream v5
 
 Edge-to-cloud infrastructure platform exploring telemetry collection, MQTT messaging, automation workflows and cloud integration.
