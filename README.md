@@ -39,7 +39,7 @@ Infrastructure-focused AWS learning and deployment exercises exploring cloud net
 
 - [indusstream-v5 - Edge-to-cloud infrastructure platform](https://github.com/ronaldmuhumuza-tech/IndusStream-v5).
 
-- [indusstream-legacy - Historical platform implementations and validation.](https://github.com/ronaldmuhumuza-tech/IndusStream-Legacy) -> 
+- [indusstream-legacy - Historical platform implementations and validation.](https://github.com/ronaldmuhumuza-tech/IndusStream-Legacy)
 
 - [network-infrastructure-engineering.](https://github.com/ronaldmuhumuza-tech/network-infrastructure-engineering)
   
