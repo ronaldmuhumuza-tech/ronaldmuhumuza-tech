@@ -1,17 +1,14 @@
 # Infrastructure & Systems Engineering Portfolio
 
-Hi, Iam Ronald Muhumuza. Systems Engineer developing practical experience across infrastructure platforms, networking, Linux systems, cloud technologies and automation.
+Hi,
 
-This portfolio documents personal engineering projects focused on building, validating and operating modern infrastructure environments.
+I'm a Systems Engineer with experience in complex industrial systems, currently building practical capability in networking, cloud infrastructure, automation and systems integration through hands-on projects and lab environments.
 
-Current development includes:
+Current Focus:
 
-* Enterprise networking and infrastructure design
-* Linux systems administration and operations
-* Infrastructure as Code (Terraform)
-* Wireless and network services
-* Monitoring and operational observability
-* Edge-to-cloud architectures
+* Networking & Infrastructure
+* AWS Cloud Platforms
+* Automation & DevOps
 
 ---
 
@@ -19,39 +16,22 @@ Current development includes:
 
 ### Netcore v2
 
-Enterprise infrastructure laboratory developed within EVE-NG to explore networking, Linux administration, wireless infrastructure, monitoring and automation.
-
-Key activities:
-
-- Cisco C9800-CL wireless infrastructure
-- Ubuntu Server administration
-- Enterprise network design
-- Infrastructure services deployment
+Enterprise infrastructure laboratory developed using EVE-NG to explore networking, Linux administration, wireless infrastructure, monitoring, and automation.
 
 ### IndusStream v5
 
-Edge-to-cloud infrastructure platform exploring telemetry collection, MQTT messaging, automation workflows and cloud integration.
-
-Current work includes:
-
-- Terraform-based platform rebuild
-- Infrastructure simplification
-- Deployment workflow refinement
+Edge-to-cloud infrastructure platform exploring telemetry collection, MQTT messaging, automation workflows, and AWS integration.
 
 ### AWS Enterprise Infrastructure
 
 Infrastructure-focused AWS learning and deployment exercises exploring cloud networking, governance, identity management and scalable architecture patterns.
 
-## Engineering Principles
-
-Projects are developed using:
+## Engineering Approach
 
 * Infrastructure as Code
-* Incremental delivery
-* Environment separation
-* Operational validation
-* Documentation and reproducibility
-* Secure deployment practices
+* Automation First
+* Secure Deployment Practices
+* Documentation-Driven Development
 
 ## Active Repositories
 
@@ -61,10 +41,6 @@ Projects are developed using:
 
 - [network-infrastructure-engineering](https://github.com/ronaldmuhumuza-tech/network-infrastructure-engineering) -> Networking and infrastructure engineering laboratory
 
-### Current Direction
-
-Current efforts are focused on strengthening practical capability across infrastructure engineering, Linux operations, enterprise networking and infrastructure automation through hands-on project development.
-
-# Connect
+## Connect
 LinkedIn: [https://www.linkedin.com/in/mronald-sham/]
 GitHub: [https://github.com/ronaldmuhumuza-tech]
