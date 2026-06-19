@@ -1,6 +1,6 @@
 # Infrastructure & Systems Engineering Portfolio
 
-Systems engineering projects focused on networking, cloud infrastructure, automation, and systems integration.
+Engineering projects exploring networking, cloud infrastructure, automation, telemetry, and systems integration.
 
 Current Focus:
 
