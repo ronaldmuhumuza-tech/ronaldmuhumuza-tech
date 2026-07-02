@@ -36,9 +36,3 @@ Hands-on AWS networking and hybrid connectivity exploring VPC design, VPNs, rout
 
 ---
 
-## Active Repositories
-
-- [indusstream-v5 - Edge-to-cloud infrastructure platform](https://github.com/ronaldmuhumuza-tech/IndusStream-v5).
-
-- [network-infrastructure-engineering](https://github.com/ronaldmuhumuza-tech/network-infrastructure-engineering).
-  
