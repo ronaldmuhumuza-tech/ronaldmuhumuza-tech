@@ -1,37 +1,38 @@
 # Infrastructure & Systems Engineering Portfolio
 
-Engineering projects exploring networking, cloud infrastructure, automation, telemetry, and systems integration.
+Engineering projects exploring enterprise networking, network security, cloud infrastructure, automation, telemetry and systems integration through practical hands-on engineering.
 
 Current Focus:
 
-- Networking & Infrastructure
-- AWS Cloud Platforms
-- Infrastructure Automation
+- Enterprise Network Infrastructure
+- Network Security (Cisco ASA & Palo Alto)
+- Network Automation (Python, NETCONF, RESTCONF & YANG)
+- AWS Enterprise Networking
+- Industrial Networking & Security
 
 ---
-
 ## Featured Projects
 
-### Netcore v2
+### Enterprise Infrastructure Lab
 
-Enterprise infrastructure laboratory developed using EVE-NG to explore networking, Linux administration, wireless infrastructure, monitoring, and automation.
+Enterprise networking laboratory built using EVE-NG, exploring routing, switching, firewalls, VPNs, automation and infrastructure design.
 
-### IndusStream v5
+### Network Automation
 
-Edge-to-cloud infrastructure platform exploring telemetry collection, MQTT messaging, automation workflows, and AWS integration.
+Python-based automation for enterprise networks using SSH, NETCONF, RESTCONF and YANG to build repeatable engineering workflows.
 
-### AWS Enterprise Infrastructure
+### AWS Enterprise Networking
 
-Infrastructure-focused AWS learning and deployment exercises exploring cloud networking, governance, identity management, and scalable architecture patterns.
+Hands-on AWS networking and hybrid connectivity exploring VPC design, VPNs, routing, identity and secure cloud infrastructure.
 
 ---
 
 ## Engineering Principles
 
-- Infrastructure as Code
-- Automation First
-- Secure Deployment Practices
-- Documentation-Driven Development
+- Security by Design
+- Automation Where It Adds Value
+- Infrastructure First
+- Documentation-Driven Engineering
 
 ---
 
