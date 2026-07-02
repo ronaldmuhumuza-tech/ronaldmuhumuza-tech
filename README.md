@@ -40,7 +40,5 @@ Hands-on AWS networking and hybrid connectivity exploring VPC design, VPNs, rout
 
 - [indusstream-v5 - Edge-to-cloud infrastructure platform](https://github.com/ronaldmuhumuza-tech/IndusStream-v5).
 
-- [indusstream-legacy - Historical platform implementations and validation](https://github.com/ronaldmuhumuza-tech/IndusStream-Legacy).
-
 - [network-infrastructure-engineering](https://github.com/ronaldmuhumuza-tech/network-infrastructure-engineering).
   
